@@ -1,8 +1,7 @@
-# *DEMO/DEMO/DEMO/DEMO*
-# Asian Girls Club AR Models
-# 亞洲女孩俱樂部虛擬模特
+# *DEMO/DEMO/DEMO/*
+# 亞洲女孩俱樂部虛擬模特 Asian Girls Club AR Models
 
-Please click the following images on a ***iPhone Safari Browser*** to see it in AR
+## Please click the following images on a ***iPhone Safari Browser*** to see it in AR
 
 [![yellow-jacket](assets/yellow-jacket.jpg)](https://mingxuan.fun/asian-girls-model/yellow-jacket.usdz)
 
