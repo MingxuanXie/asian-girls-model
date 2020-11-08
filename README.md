@@ -2,7 +2,7 @@
 # Asian Girls Club AR Models/亞洲女孩俱樂部虛擬模特
 
 ## **Please click the following images on a *iPhone Safari Browser* to see it in AR**
-## **請使用iPhone Safari瀏覽器打開此頁面再點擊以下圖片啓動AR**
+## **請使用iPhone的Safari瀏覽器打開此頁面再點擊以下圖片啓動AR瀏覽**
 
 [![yellow-jacket](assets/yellow-jacket.jpg)](https://mingxuan.fun/asian-girls-model/yellow-jacket.usdz)
 
